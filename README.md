@@ -2,11 +2,11 @@
 # Voting System Group
 
 ## For our tasks:
-Backend Developer (API) - @Jhian Kyle Cinco
-Frontend Developer (Angular) - @Kercson Didal
-Tester (API and Frontend testing) - @Charles Tampos
-Documentation Specialist (README.md) - MJ Hermosa
-DevOps Lead (Repository setup, branch management, CI/CD pipeline if applicable) - @Kerbi Cabardo
+1. Backend Developer (API) - @Jhian Kyle Cinco
+2. Frontend Developer (Angular) - @Kercson Didal
+3. Tester (API and Frontend testing) - @Charles Tampos
+4. Documentation Specialist (README.md) - MJ Hermosa
+5. DevOps Lead (Repository setup, branch management, CI/CD pipeline if applicable) - @Kerbi Cabardo
 
 ## Instructions
 Members should send the link of your repository on LMS. I will update this README.md later on...
