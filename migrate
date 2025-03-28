@@ -1,0 +1,10 @@
+Please ko ug follow ani. Please lemme know if ni work or not. Send me the error
+
+Add the New Repository as a Remote - git remote add new-origin https://github.com/AdeptEagle/Group-2-Fullstack-App.git
+Verify the remote was added successfully - git remote -v
+Push the File to the New Repository - git checkout Didal_Frontend
+Stage the specific file you want to push - git add path/to/your/file
+Commit the changes - git commit -m "Migrated file to new repository"
+Push the branch to the new repository - git push new-origin Didal_Frontend
+Go to the new repository URL (https://github.com/AdeptEagle/Group-2-Fullstack-App.git) and verify that the file has been pushed successfully.
+If you no longer need the old repository remote, you can remove it - git remote remove origin
