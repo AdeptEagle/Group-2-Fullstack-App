@@ -57,11 +57,7 @@ ________________________________________________________________________________
    SMTP_PASSWORD=your-smtp-password
    JWT_SECRET=your-jwt-secret
    ```
-6. Run database migrations:
-   ```bash
-   npm run migrate
-   ```
-7. Start the server:
+6. Start the server:
    ```bash
    npm start
    ```
@@ -73,7 +69,7 @@ ________________________________________________________________________________
    ```
 2. Install dependencies:
    ```bash
-   npm install
+   npm install -g @angular/cli@17
    ```
 3. Start the Angular development server:
    ```bash
