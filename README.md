@@ -1,12 +1,7 @@
 # Collaborative-Development-of-a-Full-Stack-Application
-# Voting Sys Group
+# Voting System Group
 
-=====================================
-
-## Project Description
-This project is a full-stack application developed collaboratively by our group. It includes a Node.js + MySQL backend and an Angular 19 frontend. The application provides features such as user authentication, role-based authorization, profile management, and more.
-
----
+________________________________________________________________________________
 
 ## For our tasks:
 Backend Developer (API) - @Jhian Kyle Cinco
@@ -18,17 +13,14 @@ DevOps Lead (Repository setup, branch management, CI/CD pipeline if applicable) 
 ## Instructions
 Members should send the link of your repository on LMS. I will update this README.md later on...
 
-# Group 2 Full-Stack Application
+________________________________________________________________________________
 
-## Project Description
-This project is a collaborative full-stack application developed by GroupX. It features a **Node.js + MySQL backend** and an **Angular 19 frontend**. The application provides functionalities such as user authentication, role-based authorization, profile management, and more.
+# Group 2 Full-Stack Application
 
 ________________________________________________________________________________
 
-# Cinco's Backend API Development
-
 ## Project Description
-This branch focuses on the backend development of the Group 2 Full-Stack Application. It includes tasks related to the **Node.js + MySQL Boilerplate API**, such as implementing API endpoints, authentication, and database configurations.
+This project is a collaborative full-stack application developed by Group 2. It features a **Node.js + MySQL backend** and an **Angular 19 frontend**. The application provides functionalities such as user authentication, role-based authorization, profile management, and more. The purpose of this application is to provide a robust platform for managing user accounts and profiles securely.
 
 ________________________________________________________________________________
 
@@ -41,21 +33,24 @@ ________________________________________________________________________________
 - **Postman** (for API testing)
 
 ### Backend Setup
-1. Clone the repository and switch to the `Cinco_backend_API` branch:
+1. Clone the repository:
    ```bash
    git clone https://github.com/AdeptEagle/Group-2-Fullstack-App.git
    cd Group-2-Fullstack-App
+   ```
+2. Switch to the backend branch:
+   ```bash
    git checkout Cinco_backend_API
    ```
-2. Navigate to the backend directory:
+3. Navigate to the backend directory:
    ```bash
    cd backend
    ```
-3. Install dependencies:
+4. Install dependencies:
    ```bash
    npm install
    ```
-4. Configure environment variables:
+5. Configure environment variables:
    Create a `.env` file in the `backend` directory and add the following:
    ```
    DB_HOST=your-database-host
@@ -68,11 +63,11 @@ ________________________________________________________________________________
    SMTP_PASSWORD=your-smtp-password
    JWT_SECRET=your-jwt-secret
    ```
-5. Run database migrations:
+6. Run database migrations:
    ```bash
    npm run migrate
    ```
-6. Start the server:
+7. Start the server:
    ```bash
    npm start
    ```
@@ -179,6 +174,7 @@ ________________________________________________________________________________
 - **Member 6 (Documentation Specialist):** Task 14
 
 ________________________________________________________________________________
+
 ## Submission
 - **GitHub Repository:** [Repository Link](https://github.com/AdeptEagle/Group-2-Fullstack-App.git)
 - **Branches:** Ensure all branches are merged into the `main` branch.
