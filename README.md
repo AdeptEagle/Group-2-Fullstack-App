@@ -1,8 +1,6 @@
 # Collaborative-Development-of-a-Full-Stack-Application
 # Voting System Group
 
-________________________________________________________________________________
-
 ## For our tasks:
 Backend Developer (API) - @Jhian Kyle Cinco
 Frontend Developer (Angular) - @Kercson Didal
@@ -13,11 +11,7 @@ DevOps Lead (Repository setup, branch management, CI/CD pipeline if applicable) 
 ## Instructions
 Members should send the link of your repository on LMS. I will update this README.md later on...
 
-________________________________________________________________________________
-
 # Group 2 Full-Stack Application
-
-________________________________________________________________________________
 
 ## Project Description
 This project is a collaborative full-stack application developed by Group 2. It features a **Node.js + MySQL backend** and an **Angular 19 frontend**. The application provides functionalities such as user authentication, role-based authorization, profile management, and more. The purpose of this application is to provide a robust platform for managing user accounts and profiles securely.
